@@ -1,0 +1,8 @@
+name: SkyblockPlugin
+version: 1.0
+main: com.SkyblockPlugin
+api-version: 1.20.6-R0.1-SNAPSHOT
+commands:
+  skyblock:
+    description: Comando principale per Skyblock
+    usage: /skyblock <comando>

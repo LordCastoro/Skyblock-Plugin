@@ -1,1 +1,1 @@
-Questo è un plugin privato, si consiglia di non copiare!!!
+QUESTO é UN PLUGIN PRIVATO CHE NON FUNZIONA, INUTILE COPIARE
